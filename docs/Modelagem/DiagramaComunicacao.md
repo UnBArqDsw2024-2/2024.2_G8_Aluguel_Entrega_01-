@@ -14,7 +14,7 @@ Autor: [Caio Berg](https://github.com/Caio-bergbjj)
 
 <iframe frameborder="0" style="width:100%;height:463px;" src="https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Diagrama-Colaboracao-1.drawio&page-id=XgpOBRGzInjh1QPo4lQn#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1BMrypHqJLRHJ1Cy-SqvCrVasJMV66Dmw%26export%3Ddownload"></iframe>
 
-Autor: [Thiago Freitas](https://github.com/thiagofreitas)
+Autor: [Thiago Freitas](https://github.com/thiagorfreitas)
 
 ## Buscar Imóveis
 
@@ -57,7 +57,7 @@ Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel)
 
 <iframe frameborder="0" style="width:100%;height:453px;" src="https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Diagrama-Colaboracao-1.drawio&page-id=HC3C1HqLqQSuc9e2U2kG#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1BMrypHqJLRHJ1Cy-SqvCrVasJMV66Dmw%26export%3Ddownload"></iframe>
 
-Autor: [Thiago Freitas](https://github.com/thiagofreitas)
+Autor: [Thiago Freitas](https://github.com/thiagorfreitas)
 
 
 ### Bibliografia
@@ -70,5 +70,5 @@ Autor: [Thiago Freitas](https://github.com/thiagofreitas)
 
 | Versão |    Data    |                   Descrição                    |     Autor(es)      |
 | :----: | :--------: | :--------------------------------------------: | :----------------: |
-| `1.0`  | 25/11/2024 | Criação do artefato do Diagrama de Comunicação | [Alexandre Beck](https://github.com/zzzBECK), [Arthur Gabriel](https://github.com/ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Gabriel Bertolazi](https://github.com/Bertolazi) e [Thiago Freitas](https://github.com/thiagofreitas) |
+| `1.0`  | 25/11/2024 | Criação do artefato do Diagrama de Comunicação | [Alexandre Beck](https://github.com/zzzBECK), [Arthur Gabriel](https://github.com/ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Gabriel Bertolazi](https://github.com/Bertolazi) e [Thiago Freitas](https://github.com/thiagorfreitas) |
 
