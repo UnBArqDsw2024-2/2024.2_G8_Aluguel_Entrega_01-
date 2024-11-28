@@ -1,8 +1,16 @@
 <!-- docs/_sidebar.md -->
 
-- [Home](/docs)
-- [Projetos](/docs/Projetos/Projetos.md)
-- [Atas de Reunião](atas/foco1/diagrama-implantacao.md)
+- [Home](/README.md)
+- [Atas de Reunião](/atas/atas.md)
+  - [Foco 1 - Diagrama de Implantação](/atas/foco1/ata_diagrama-implantacao.md)
+  - [Foco 1 - Diagrama de Componentes](/atas/foco1/ata_diagrama_componentes.md)
+  - [Foco 2 - Diagrama de Atividades](/atas/foco2/ata_diagrama-atividades.md)
+  - [Foco 2 - Diagrama de Estados](/atas/foco2/ata_diagrama_estados.md)
+  - [Foco 3 - Caso de Uso: Favoritar Imóvel](/atas/foco3/caso-de-uso-favoritar-imovel.md)
+  - [Foco 3 - Caso de Uso: Cadastro e Login](/atas/foco3/caso-de-uso-cadastro-login.md)
+  - [Reunião Geral - Início da Entrega 02](/atas/geral/reuniao_01.md)
+  - [Reunião Geral - Fim da Entrega 02](/atas/geral/reuniao_02.md)
+  - [Reunião Geral - Backlog do Produto](/atas/backlog/ata_backlog.md)
 
 - **Modelagem**
   - [2. Desenho de Software (Modelagem)](Modelagem/2.Modelagem.md)
