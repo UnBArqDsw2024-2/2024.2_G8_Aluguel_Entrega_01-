@@ -1,16 +1,34 @@
-# Ata de Reunião
-**Projeto**: G8 Aluguel de Imóveis
-**Assunto**: Desenvolvimento do Caso de uso de Favoritar Imóvel
-**Data**: 23 de novembro de 2024
-**Horário**: 19h45 às 20h40
-**Local**: Remoto - Através da ferramenta Discord
-**Participantes**:
--   [Pedro Izarias](https://github.com/Izarias)
--   [Pedro Sena](https://github.com/pedroyen21)
----
+# Ata de Reunião - Caso de Uso Favoritar Imóvel
 
-## Pauta
-1. Elaboração do diagrama de caso de uso.
+## **Informações da reunião**
 
-## Resumo
-Pedro Sena e Pedro Izarias discutiram a criação do caso de uso de favoritar imóvel, além de criar o diagrama para o mesmo e inseri-lo na documentação do projeto.
+- Data: 23/11/2024
+- Horário de início: 19h45
+- Horário de término: 20h40
+- Local: Discord
+- Responsável pelo registro de ata: Pedro Izarias
+
+## **Presentes**
+
+| Nome | Presença (sim/não) |
+|:----:|:------------------:|
+| Pedro Izarias | Sim |
+| Pedro Sena | Sim |
+
+## **Pauta da reunião**
+
+- Elaboração do **Diagrama de Caso de Uso para Favoritar Imóvel**.
+
+## **Atribuição de Tarefas (reunião geral) ou Tarefas realizadas (reunião dos subgrupos)**
+
+- A dupla discutiu a criação do caso de uso de favoritar imóvel, além de criar o diagrama para o mesmo e inseri-lo na documentação do projeto.
+
+### Anexos
+
+- Sem anexos
+
+## Histórico de Versão
+
+| Versão |    Data    |         Descrição          |  Autor(es)  |
+| :----: | :--------: | :------------------------: | :---------: |
+| `1.0`  | 23/11/2024 |  Inclusão da ata de reunião | [Pedro Izarias](https://github.com/Izarias) |
