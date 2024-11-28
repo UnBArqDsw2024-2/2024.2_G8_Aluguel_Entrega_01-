@@ -43,7 +43,7 @@
 Captura de Tela da reunião
 
 <div>
-    <img src="../images/reuniao-backlog.png" alt="Captura de Tela da Reunião" height="600">
+    <img src="/images/reuniao-backlog.png" alt="Captura de Tela da Reunião" height="600">
 </div>
 
 ## Histórico de Versão
