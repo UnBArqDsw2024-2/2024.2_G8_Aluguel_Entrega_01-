@@ -31,6 +31,22 @@ O HostHub é uma plataforma voltada à promoção de imóveis para aluguel e ven
 
 ## Screenshots da Segunda Entrega
 
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G8_Aluguel_Entrega_02/refs/heads/main/docs/images/screenshot1.png" alt="Captura 01">
+</div>
+
+<div>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G8_Aluguel_Entrega_02/refs/heads/main/docs/images/screenshot2.png" alt="Captura 02">
+</div>
+
+<div>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G8_Aluguel_Entrega_02/refs/heads/main/docs/images/screenshot3.png" alt="Captura 03">
+</div>
+
+<div>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G8_Aluguel_Entrega_02/refs/heads/main/docs/images/screenshot4.png" alt="Captura 04">
+</div>
+
 ## Tecnologia
 
 A geração do site estático é realizada utilizando o [docsify](https://docsify.js.org/).

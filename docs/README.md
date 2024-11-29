@@ -30,7 +30,23 @@ Este repositório foi criado para documentar os artefatos e resultados do projet
 
 O HostHub é uma plataforma voltada à promoção de imóveis para aluguel e venda. A plataforma permite que usuários filtrem as buscas com base em localização, tipo de imóvel, faixa de preço e outras preferências, facilitando a conexão entre proprietários e potenciais locatários ou compradores.
 
-## Screenshots da Primeira Entrega
+## Screenshots da Segunda Entrega
+
+<div>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G8_Aluguel_Entrega_02/refs/heads/main/docs/images/screenshot1.png" alt="Captura 01">
+</div>
+
+<div>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G8_Aluguel_Entrega_02/refs/heads/main/docs/images/screenshot2.png" alt="Captura 02">
+</div>
+
+<div>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G8_Aluguel_Entrega_02/refs/heads/main/docs/images/screenshot3.png" alt="Captura 03">
+</div>
+
+<div>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G8_Aluguel_Entrega_02/refs/heads/main/docs/images/screenshot4.png" alt="Captura 04">
+</div>
 
 ## Há algo a ser executado?
 
@@ -43,3 +59,4 @@ O HostHub é uma plataforma voltada à promoção de imóveis para aluguel e ven
 | Versão |    Data    |         Descrição          |  Autor(es)  |
 | :----: | :--------: | :------------------------: | :---------: |
 | `1.0`  | 10/11/2024 | Edição das informações da página home | [Ester Lino](https://github.com/esteerlino) |
+| `1.1`  | 29/11/2024 | Incluídos Screenshots da Segunda Entrega | [Ester Lino](https://github.com/esteerlino) |
