@@ -1,4 +1,4 @@
-# Diagrama de componentes
+# Diagrama de Componentes
 
 ## Introdução
 

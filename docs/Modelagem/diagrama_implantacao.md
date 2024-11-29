@@ -1,4 +1,4 @@
-# Diagrama de implantação
+# Diagrama de Implantação
 
 ## Introdução
 
@@ -12,7 +12,7 @@ O objetivo deste documento é apresentar o diagrama de implantação no contexto
 
 Para o desenvolvimento do diagrama, utilizamos o software [draw.io](https://www.drawio.com/), que permitiu aos responsáveis trabalharem em conjunto graças à integração com o Google Drive. Para definir e pesquisar a modelagem desse diagrama, foi realizada uma pesquisa sobre as regras desse modelo na Linguagem de Modelagem Unificada (UML). Essa pesquisa focou nas especificidades dos diagramas de implantação, que representam a arquitetura física do sistema, incluindo nós, componentes e suas interações.
 
-## Diagrama de implantação
+## Diagrama de Implantação
 
 <iframe frameborder="0" style="width:100%;height:450px;" src="https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&layers=1&nav=1&title=diagrama-implantacao.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D11k3OquAOitmSmi14AVsTI4WgEeRXGoEz%26export%3Ddownload"></iframe>
 

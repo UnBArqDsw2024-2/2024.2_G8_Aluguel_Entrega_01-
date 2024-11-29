@@ -1,4 +1,4 @@
-# Diagrama de estados
+# Diagrama de Estados
 
 ## Introdução
 

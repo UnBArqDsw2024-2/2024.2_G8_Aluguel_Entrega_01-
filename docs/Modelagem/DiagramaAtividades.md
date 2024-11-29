@@ -1,4 +1,4 @@
-# Diagramas de atividade
+# Diagramas de Atividades
 
 ## Introdução
 
@@ -32,56 +32,56 @@ Foram feitos ao todo 8 diagramas de atividades, contemplando os casos de uso lev
 <details>
 <summary>1. Cadastro e Login de Usuários</summary>
 
-<img src="../assets/diagramas_atividade/cadastro-login.png" alt="Cadastro e Login de Usuários" style="width:100%; max-width:800px;">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G8_Aluguel_Entrega_02/refs/heads/main/docs/assets/diagramas_atividade/cadastro-login.png" alt="Cadastro e Login de Usuários" style="width:100%; max-width:800px;">
 
 </details>
 
 <details>
 <summary>2. Publicar Anúncio</summary>
 
-<img src="../assets/diagramas_atividade/publicar-anuncio.png" alt="Publicar Anúncio" style="width:100%; max-width:800px;">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G8_Aluguel_Entrega_02/refs/heads/main/docs/assets/diagramas_atividade/publicar-anuncio.png" alt="Publicar Anúncio" style="width:100%; max-width:800px;">
 
 </details>
 
 <details>
 <summary>3. Buscar Imóveis</summary>
 
-<img src="../assets/diagramas_atividade/buscar-imoveis.png" alt="Buscar Imóveis" style="width:100%; max-width:800px;">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G8_Aluguel_Entrega_02/refs/heads/main/docs/assets/diagramas_atividade/buscar-imoveis.png" alt="Buscar Imóveis" style="width:100%; max-width:800px;">
 
 </details>
 
 <details>
 <summary>4. Favoritar Imóvel</summary>
 
-<img src="../assets/diagramas_atividade/favoritar-imovel.png" alt="Favoritar Imóvel" style="width:100%; max-width:800px;">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G8_Aluguel_Entrega_02/refs/heads/main/docs/assets/diagramas_atividade/favoritar-imovel.png" alt="Favoritar Imóvel" style="width:100%; max-width:800px;">
 
 </details>
 
 <details>
 <summary>5. Avaliar um Imóvel</summary>
 
-<img src="../assets/diagramas_atividade/avaliar-imovel.png" alt="Avaliar um Imóvel" style="width:100%; max-width:800px;">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G8_Aluguel_Entrega_02/refs/heads/main/docs/assets/diagramas_atividade/avaliar-imovel.png" alt="Avaliar um Imóvel" style="width:100%; max-width:800px;">
 
 </details>
 
 <details>
 <summary>6. Receber Notificações</summary>
 
-<img src="../assets/diagramas_atividade/receber-notificacao.png" alt="Receber Notificações" style="width:100%; max-width:800px;">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G8_Aluguel_Entrega_02/refs/heads/main/docs/assets/diagramas_atividade/receber-notificacao.png" alt="Receber Notificações" style="width:100%; max-width:800px;">
 
 </details>
 
 <details>
 <summary>7. Visualizar Perfil do Anunciante</summary>
 
-<img src="../assets/diagramas_atividade/visualizar-perfil.png" alt="Visualizar Perfil do Anunciante" style="width:100%; max-width:800px;">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G8_Aluguel_Entrega_02/refs/heads/main/docs/assets/diagramas_atividade/visualizar-perfil.png" alt="Visualizar Perfil do Anunciante" style="width:100%; max-width:800px;">
 
 </details>
 
 <details>
 <summary>8. Gerenciar Anúncios</summary>
 
-<img src="../assets/diagramas_atividade/gerenciar-anuncios.png" alt="Gerenciar Anúncios" style="width:100%; max-width:800px;">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G8_Aluguel_Entrega_02/refs/heads/main/docs/assets/diagramas_atividade/gerenciar-anuncios.png" alt="Gerenciar Anúncios" style="width:100%; max-width:800px;">
 
 </details>
 
@@ -97,3 +97,4 @@ Foram feitos ao todo 8 diagramas de atividades, contemplando os casos de uso lev
 | :----: | :--------: | :------------------------: | :---------: |
 | `1.0`  | 23/11/2024 | Criação do dodumento | [Pedro Izarias](https://github.com/Izarias), [Pedro Sena](https://github.com/pedroyen21) |
 | `1.1`  | 28/11/2024 | Adição dos diagramas de atividade | [Arthur Trindade](https://github.com/trindadea), [Gabriela Tiago](https://github.com/GabrielaTiago), [Miguel Moreira](https://github.com/EhOMiguel),  [Pedro Izarias](https://github.com/Izarias), [Pedro Sena](https://github.com/pedroyen21) |
+| `1.2`  | 28/11/2024 | Correção de imagens| [Ester Lino](https://github.com/esteerlino) |

@@ -1,4 +1,4 @@
-# Diagrama de classes
+# Diagrama de Classes
 
 ## Introdução
 
