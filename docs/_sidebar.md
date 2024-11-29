@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 - [Home](/README.md)
-- [Atas de Reunião](/atas/atas.md)
+- [**Atas de Reunião**](/atas/atas.md)
   - [Foco 1 - Diagrama de Implantação](/atas/foco1/ata_diagrama-implantacao.md)
   - [Foco 1 - Diagrama de Componentes](/atas/foco1/ata_diagrama_componentes.md)
   - [Foco 2 - Diagrama de Atividades](/atas/foco2/ata_diagrama-atividades.md)
@@ -15,9 +15,14 @@
 - **Modelagem**
   - [2. Desenho de Software (Modelagem)](Modelagem/2.Modelagem.md)
     - [2.1. Modelagem UML Estática](Modelagem/2.1.ModelagemEstatica.md)
+      - [2.1.1. Diagrama de Classes](Modelagem/diagrama_de_classes.md)
+      - [2.1.2. Diagrama de Componentes](Modelagem/diagrama_componentes.md)
+      - [2.1.3. Diagrama de Implantação](Modelagem/diagrama_implantacao.md)
     - [2.2. Modelagem UML Dinâmica](Modelagem/2.2.ModelagemDinamica.md)
-      - [2.2.1. Diagrama de Comunicação](Modelagem/DiagramaComunicacao.md)
-    - [2.3. Modelagem UML Organizacional ou Casos de Uso](Modelagem/2.3.ModelagemOrganizacionalCasosDeUso.md)
-    - [2.4. Participações - Modelagem](Modelagem/2.4.ParticipacoesModelagem.md)
-    - [2.5. Iniciativas Extras - Modelagem](Modelagem/2.5.IniciativasExtras.md)
-    - [Diagrama de atividades](Modelagem/DiagramaAtividades.md)
+      - [2.2.1. Diagrama de Atividades](Modelagem/DiagramaAtividades.md)
+      - [2.2.2. Diagrama de Comunicação](Modelagem/DiagramaComunicacao.md)
+      - [2.2.3. Diagrama de Estados](Modelagem/diagram_estados.md)
+    - [2.3. Casos de Uso](Modelagem/2.3.ModelagemOrganizacionalCasosDeUso.md)
+    - [2.4. Backlog do Produto](Backlog/backlog_produto.md)
+    - [2.5. Participações - Modelagem](Modelagem/2.4.ParticipacoesModelagem.md)
+    - [2.6. Iniciativas Extras - Modelagem](Modelagem/2.5.IniciativasExtras.md)
