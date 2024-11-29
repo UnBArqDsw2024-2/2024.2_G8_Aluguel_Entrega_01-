@@ -36,7 +36,7 @@
 Captura de Tela da reunião
 
 <div>
-    <img src="../images/reuniao-diagrama-estados.png" alt="Captura de Tela da Reunião" height="600">
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G8_Aluguel_Entrega_02/refs/heads/main/docs/images/reuniao-diagrama-estados.png" alt="Captura de Tela da Reunião">
 </div>
 
 ## Histórico de Versão

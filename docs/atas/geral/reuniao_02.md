@@ -46,15 +46,15 @@
 Comprovação por fotos tiradas durante a reunião
 
 <div>
-    <img src="../images/reuniao-geral_1.jpg" alt="Foto 1" height="300">
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G8_Aluguel_Entrega_02/refs/heads/main/docs/images/reuniao-geral_1.jpg" alt="Foto 1" height="300">
 </div>
 
 <div>
-    <img src="../images/reuniao-geral_2.jpg" alt="Foto 2" height="300">
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G8_Aluguel_Entrega_02/refs/heads/main/docs/images/reuniao-geral_2.jpg" alt="Foto 2" height="300">
 </div>
 
 <div>
-    <img src="../images/reuniao-geral_3.jpg" alt="Foto 3" height="300">
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G8_Aluguel_Entrega_02/refs/heads/main/docs/images/reuniao-geral_3.jpg" alt="Foto 3" height="300">
 </div>
 
 ## Histórico de Versão

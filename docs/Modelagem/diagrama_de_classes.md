@@ -19,11 +19,10 @@ Para o desenvolvimento do diagrama de classes, realizamos uma reunião da equipe
 
 A construção do diagrama foi feita utilizando a ferramenta LucidChart, aproveitando suas funcionalidades para criar uma representação clara e detalhada do sistema. Cada integrante contribuiu com ideias e sugestões para refinar o modelo, assegurando que o diagrama refletisse com precisão a estrutura planejada. Durante o desenvolvimento, fizemos revisões contínuas para garantir que o diagrama estivesse sempre alinhado com os requisitos e a visão final do projeto.
 
-
 ## Diagrama
 
 <div style="text-align: center;">
-    <img src="../images/diagrama-classes.png" alt="Diagrama de Componentes">
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G8_Aluguel_Entrega_02/refs/heads/main/docs/images/diagrama-classes.png" alt="Diagrama de Componentes">
 </div>
 <figcaption align='center'>
     <h6><b>Figura 1: Diagrama de classes. <br> Autor(es): Caio Berg, Arthur Gabriel, Thiago Freitas, Arthur Carneiro e Miguel Moreira</h6></b>

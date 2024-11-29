@@ -1,6 +1,5 @@
 # Diagramas de atividade
 
-
 ## Introdução
 
 O diagrama de atividades é um diagrama UML de comportamento. Ele é focado em ações e controles de um fluxo sequencial com um objetivo pré-definido.
@@ -28,11 +27,63 @@ Esse diagrama possui alguns elementos frequentemente utilizados como:
 
 ## Diagramas de atividades do projeto
 
-Foram feitos ao todo 10 diagramas de atividades, 9 contemplando os casos de uso levantados pela equipe e outro diagrama mais amplo e superficial que representa o comportamento do sistema como um todo.
+Foram feitos ao todo 8 diagramas de atividades, contemplando os casos de uso levantados pela equipe.
 
-- Diagrama do caso de uso 1: Cadastro e login
-- Diagrama do caso de uso 2: Publicar anúncio
-- Diagrama do caso de uso 3: Buscar imóveis
+<details>
+<summary>1. Cadastro e Login de Usuários</summary>
+
+<img src="../assets/diagramas_atividade/cadastro-login.png" alt="Cadastro e Login de Usuários" style="width:100%; max-width:800px;">
+
+</details>
+
+<details>
+<summary>2. Publicar Anúncio</summary>
+
+<img src="../assets/diagramas_atividade/publicar-anuncio.png" alt="Publicar Anúncio" style="width:100%; max-width:800px;">
+
+</details>
+
+<details>
+<summary>3. Buscar Imóveis</summary>
+
+<img src="../assets/diagramas_atividade/buscar-imoveis.png" alt="Buscar Imóveis" style="width:100%; max-width:800px;">
+
+</details>
+
+<details>
+<summary>4. Favoritar Imóvel</summary>
+
+<img src="../assets/diagramas_atividade/favoritar-imovel.png" alt="Favoritar Imóvel" style="width:100%; max-width:800px;">
+
+</details>
+
+<details>
+<summary>5. Avaliar um Imóvel</summary>
+
+<img src="../assets/diagramas_atividade/avaliar-imovel.png" alt="Avaliar um Imóvel" style="width:100%; max-width:800px;">
+
+</details>
+
+<details>
+<summary>6. Receber Notificações</summary>
+
+<img src="../assets/diagramas_atividade/receber-notificacao.png" alt="Receber Notificações" style="width:100%; max-width:800px;">
+
+</details>
+
+<details>
+<summary>7. Visualizar Perfil do Anunciante</summary>
+
+<img src="../assets/diagramas_atividade/visualizar-perfil.png" alt="Visualizar Perfil do Anunciante" style="width:100%; max-width:800px;">
+
+</details>
+
+<details>
+<summary>8. Gerenciar Anúncios</summary>
+
+<img src="../assets/diagramas_atividade/gerenciar-anuncios.png" alt="Gerenciar Anúncios" style="width:100%; max-width:800px;">
+
+</details>
 
 <iframe frameborder="0" style="width:100%;height:2407px;" src="https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&layers=1&nav=1&title=diagrama-atividades.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D13chmCSf_iAwLTdSAq3vO0_rD4YAO-PJU%26export%3Ddownload"></iframe>
 
@@ -40,9 +91,9 @@ Foram feitos ao todo 10 diagramas de atividades, 9 contemplando os casos de uso 
 
 [1] Activity Diagrams. Disponível em: https://www.uml-diagrams.org/activity-diagrams.html. Acesso em: 23 Novembro de 2024.
 
-
 ## Histórico de Versão
 
 | Versão |    Data    |         Descrição          |  Autor(es)  |
 | :----: | :--------: | :------------------------: | :---------: |
 | `1.0`  | 23/11/2024 | Criação do dodumento | [Pedro Izarias](https://github.com/Izarias), [Pedro Sena](https://github.com/pedroyen21) |
+| `1.1`  | 28/11/2024 | Adição dos diagramas de atividade | [Arthur Trindade](https://github.com/trindadea), [Gabriela Tiago](https://github.com/GabrielaTiago), [Miguel Moreira](https://github.com/EhOMiguel),  [Pedro Izarias](https://github.com/Izarias), [Pedro Sena](https://github.com/pedroyen21) |

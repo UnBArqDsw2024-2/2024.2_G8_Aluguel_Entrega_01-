@@ -7,7 +7,7 @@ O diagrama de componentes em UML (Unified Modeling Language) é um tipo de diagr
 A seguir são apresentados os componentes utilizados na construção do diagrama de componentes:
 
 <div style="text-align: center;">
-    <img src="../images/legenda-figuras.png" alt="Legenda dos componentes">
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G8_Aluguel_Entrega_02/refs/heads/main/docs/images/legenda-figuras.png" alt="Legenda dos componentes">
 </div>
 <figcaption align='center'>
     <h6><b>Figura 1: Legenda dos componentes utilizados no diagrama. Autor(es): Gabriel Marcolino</h6></b>
@@ -30,7 +30,7 @@ Para a construção do diagrama, utilizamos a ferramenta draw.io, aproveitando s
 ## Diagrama
 
 <div style="text-align: center;">
-    <img src="../images/diagrama-componentes.png" alt="Diagrama de Componentes">
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G8_Aluguel_Entrega_02/refs/heads/main/docs/images/diagrama-componentes.png" alt="Diagrama de Componentes">
 </div>
 <figcaption align='center'>
     <h6><b>Figura 1: Diagrama de componentes. <br> Autor(es): Lucas Macedo, Ester Lino, Gabriel Marcolino, Shaíne Oliveira e Alexandre Beck</h6></b>
